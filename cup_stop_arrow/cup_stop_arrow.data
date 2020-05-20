@@ -1,0 +1,6 @@
+classes= 3
+train  = cup_stop_arrow_stuff/train.txt
+valid  = cup_stop_arrow_stuff/valid.txt
+names = data/cup_stop_arrow.names
+backup = cup_stop_arrow_backup
+
